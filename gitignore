@@ -1,0 +1,24 @@
+# CST Studio Suite result files and caches
+*.sdt
+*.bak
+*.lock
+*_results/
+*_cache/
+Result/
+Temp/
+
+# CST auto-generated folders
+Model/3D/
+Model/DS/
+
+# Large mesh and solver files
+*.msh
+*.m3d
+*.dat
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# macOS system files
+.DS_Store
